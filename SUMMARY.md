@@ -15,7 +15,7 @@
 * [Git 서브모듈 삭제](blog/git.md)
 * [도커 컴포즈 명령어 사용법](blog/undefined.md)
 
-## 📒 Book
+## 📚 Book
 
 * [이펙티브 자바](book/undefined.md)
 * [자바에서 코틀린으로 (코틀린으로 리팩터링하기)](book/undefined-1/README.md)
