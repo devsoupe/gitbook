@@ -1,5 +1,6 @@
 ---
 description: 이펙티브 자바를 정리한 내용입니다.
+hidden: true
 ---
 
 # 이펙티브 자바

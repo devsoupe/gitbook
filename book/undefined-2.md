@@ -1,5 +1,6 @@
 ---
 description: 모던 자바 인 액션을 정리한 내용입니다.
+hidden: true
 ---
 
 # 모던 자바 인 액션
