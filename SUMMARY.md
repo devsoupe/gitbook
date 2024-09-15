@@ -49,6 +49,7 @@
 
 * [우아한 모노리스](seminar/undefined.md)
 * [우아한 객체지향](seminar/undefined-1.md)
+* [점진적 추상화](seminar/undefined-2.md)
 
 ## 🔥 recruit
 
