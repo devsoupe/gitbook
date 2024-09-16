@@ -10,10 +10,12 @@ description: macOS 기준으로 SDKMAN!을 통해 자바 버전을 관리 가이
 
 ### 다운로드 및 설치
 
+***
+
 * 유닉스 스타일의 플랫폼 환경에서는 CLI를 통해 쉽게 설치 가능하다.
 * [SDKMAN! 홈페이지](https://sdkman.io/install)에서 설치에 대한 자세한 내용을 확인할 수 있다.
 
-#### 1. 설치 명령어
+#### a. 설치 명령어
 
 * 터미널을 열고 다음을 입력해 설치를 진행한다.
 
@@ -21,7 +23,7 @@ description: macOS 기준으로 SDKMAN!을 통해 자바 버전을 관리 가이
 $ curl -s "https://get.sdkman.io" | bash
 ```
 
-#### 2. 환경변수 세팅
+#### b. 환경변수 세팅
 
 * 설치를 완료하면 기본적으로 `.zshrc` 파일에 환경변수가 자동으로 적용된다.
 * 현재 터미널에 적용하기 위해 환경변수 명령을 수행한다.
@@ -31,6 +33,8 @@ $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 
 ### 버전 확인
+
+***
 
 ```
 $ sdk version

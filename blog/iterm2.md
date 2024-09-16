@@ -10,13 +10,17 @@ description: macOS 기준으로 개발 환경 설정에 대한 가이드를 제�
 
 ### 설치하기
 
+***
+
 * [iTerm 홈페이지](https://iterm2.com/) Downloads 탭에서 Stable Releases 애플리케이션을 다운로드하고 설치한다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 세팅하기
 
-#### Color Preset 변경
+***
+
+#### a. Color Preset 변경
 
 * [iTerm Themes](https://iterm2colorschemes.com/) 홈페이지에서 마음에 드는 테마를 선택해 다운로드 한다.
 
@@ -38,7 +42,7 @@ description: macOS 기준으로 개발 환경 설정에 대한 가이드를 제�
 
 </div>
 
-#### Profile 설정
+#### b. Profile 설정
 
 
 
