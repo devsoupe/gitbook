@@ -1,10 +1,8 @@
 ---
-description: SDKMAN!으로 자바 버전 관리를 정리한 내용입니다.
+description: macOS 기준으로 SDKMAN!을 통해 자바 버전을 관리 가이드를 제공한다.
 ---
 
 # SDKMAN!으로 자바 버전 관리
-
-* macOS 기준으로 SDKMAN!을 통해 자바 버전을 관리 가이드를 제공한다.
 
 ## 1. SDKMAN! 설치
 

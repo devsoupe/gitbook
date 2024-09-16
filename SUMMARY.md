@@ -6,8 +6,7 @@
 
 ## ✍️ blog
 
-* [iTerm2를 기본 터미널로 사용](blog/iterm2.md)
-* [쉘 프롬프트 oh-my-zsh로 설정](blog/oh-my-zsh.md)
+* [macOS 개발 환경 설정](blog/macos.md)
 * [SDKMAN!으로 자바 버전 관리](blog/sdkman.md)
 * [도커 환경에서 MySQL 설치 및 접속](blog/mysql.md)
 * [도커를 사용하여 GitLab Runner 구성](blog/gitlab-runner.md)
