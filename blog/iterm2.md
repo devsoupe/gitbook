@@ -8,17 +8,13 @@ description: macOS 기준으로 개발 환경 설정에 대한 가이드를 제�
 
 * macOS의 기본 터미널 대신 다양한 기능을 제공하는 iTerm2 터미널을 사용한다.
 
-### iTerm2 설치
-
-***
+### 설치하기
 
 * [iTerm 홈페이지](https://iterm2.com/) Downloads 탭에서 Stable Releases 애플리케이션을 다운로드하고 설치한다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### iTerm2 세팅
-
-***
+### 세팅하기
 
 #### Color Preset 변경
 
@@ -41,6 +37,8 @@ description: macOS 기준으로 개발 환경 설정에 대한 가이드를 제�
 <figure><img src="../.gitbook/assets/스크린샷 2024-09-16 오후 11.43.25.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+#### Profile 설정
 
 
 
