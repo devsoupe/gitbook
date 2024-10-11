@@ -50,6 +50,11 @@
 * [우아한 객체지향](seminar/undefined-1.md)
 * [점진적 추상화](seminar/undefined-2.md)
 
+## 🌎 English
+
+* [라이브 아카데미 토들러](english/undefined/README.md)
+  * [Lesson 001 - 기본적인 문장 구성하기](english/undefined/lesson-001.md)
+
 ## 🔥 recruit
 
 * [일반](recruit/undefined/README.md)
