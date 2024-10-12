@@ -47,7 +47,7 @@ description: 왕초보를 위한 영어회화 강의 - Lesson 001 [기본적인 
 * I exercise(work out) by myself
 * I exercise(work out) at home by myself 6 hours a day
 
-## 정리
+## 추가정리
 
 * 문장 구성 시 본문장은 단어만 몇개 외우고 있어도, 일상 속에서 하는 일들의 많은 부분을 커버할 수 있다.
 * 관건은 본문장에 세부사항을 얼마만큼 붙일 수 있느냐에 따라 회화에서 할 수 있는 말이 정해진다.

@@ -54,6 +54,7 @@
 
 * [라이브 아카데미 토들러](english/undefined/README.md)
   * [Lesson 001 - 기본적인 문장 구성하기](english/undefined/lesson-001.md)
+  * [Lesson 002 - 문장 만들기](english/undefined/lesson-002.md)
 
 ## 🔥 recruit
 
