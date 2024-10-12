@@ -52,6 +52,13 @@
 
 ## 🌎 English
 
+* [영어 피트니스 50일의 기적 ①](english/50-1/README.md)
+  * [PART 1 워밍업](english/50-1/part-1/README.md)
+    * [1. '말문 트기'란?](english/50-1/part-1/1..md)
+  * [PART 2 말문 트기 훈련 코스](english/50-1/part-2/README.md)
+    * [DAY 1](english/50-1/part-2/day-1/README.md)
+      * [STEP 1. Do (\~해, \~하지 마)](english/50-1/part-2/day-1/step-1.-do.md)
+      * [STEP 2. Do + 말늘리기](english/50-1/part-2/day-1/step-2.-do-+.md)
 * [라이브 아카데미 토들러](english/undefined/README.md)
   * [Lesson 001 - 기본적인 문장 구성하기](english/undefined/lesson-001.md)
   * [Lesson 002 - 문장 만들기](english/undefined/lesson-002.md)
